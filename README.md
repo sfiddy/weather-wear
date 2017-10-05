@@ -1,9 +1,15 @@
 # weather-wear
 
+## Conceptual Model
+![3D Model](/images/prototype-3d-model.jpg)
+![3D Model - Hinges](/images/prototype-3d-model-hinges.jpg)
+![3D Model - Placement](/images/prototype-placement.jpg)
 
 ## Functionality
 <img width="643" alt="soilmoisture_01" src="https://user-images.githubusercontent.com/23643452/31208792-3ec70620-a955-11e7-98ca-7cee16802bb2.png">
 <img width="1059" alt="soilmoisture_02" src="https://user-images.githubusercontent.com/23643452/31208793-3fa1308e-a955-11e7-81a2-b6c035edbdd8.png">
+
+
 ## Technical Complexity?
 ## Aeshetics?
 ## Conceptual Clarity?
